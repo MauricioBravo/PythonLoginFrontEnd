@@ -2,6 +2,11 @@ iniciar server django
 	ir a la direccion
 	python manage.py runserver
 
+instalar librerias
+pip install pyotp
+pip install qrcode
+pip install pillow
+
 git init ????
 git add .
 git status
