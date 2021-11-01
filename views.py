@@ -14,3 +14,5 @@ def damefecha(request):
     fech="""<html><body><h1> La fecha y hora es   %s </h1></body></html>""" % fecha_actual
 
     return HttpResponse(fech)
+    
+    variable=null
